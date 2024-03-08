@@ -25,11 +25,11 @@ async def start(_, m: Message):
         [
             [
                 InlineKeyboardButton("Channel", url="https://t.me/feelings_for_you_baby"),
-                InlineKeyboardButton("Support", url="https://t.me/slbotzone"),
+                InlineKeyboardButton("Support", url="https://t.me/Tabahi_chatting_group"),
             ],
             [
                 InlineKeyboardButton(
-                    "Source code", url="https://github.com/ImDenuwan/Bin-Checker-Bot"
+                    "Source code", url="https://graph.org/file/8d930875865ac61996057.mp4"
                 )
             ],
         ]
@@ -80,7 +80,7 @@ async def bin(_, m: Message):
 
             mfrom = m.from_user.mention
             caption = f"""
-    ╔ Valid :- `{res} ✅`\n╚ Bin :- `{bi}`\n\n╔ Brand :- `{ve}`\n╠ Type :- `{ty}`\n╚ Level :- `{le}`\n\n╔ Bank :- `{ban} ({co})`\n╠ Country :- `{nm} {em}`\n╠ Alpha2 :- `{cod}`\n╚ DialCode :- `{dial}`\n\n**↠ Checked By :-** {mfrom}\n**↠ __Bot By :-** [Denuwan](https://github.com/ImDenuwan/Bin-Checker-Bot)__
+    ╔ Valid :- `{res} ✅`\n╚ Bin :- `{bi}`\n\n╔ Brand :- `{ve}`\n╠ Type :- `{ty}`\n╚ Level :- `{le}`\n\n╔ Bank :- `{ban} ({co})`\n╠ Country :- `{nm} {em}`\n╠ Alpha2 :- `{cod}`\n╚ DialCode :- `{dial}`\n\n**↠ Checked By :-** {mfrom}\n**↠ __Bot By :-** [Devil XD](https://t.me/)__
     """
             await mafia.edit(caption, disable_web_page_preview=True)
             
