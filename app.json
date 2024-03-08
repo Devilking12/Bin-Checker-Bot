@@ -1,12 +1,12 @@
 {
-  "name": "Bin Checker Bot",
+  "name": "Devil_CC_Checker_bot",
   "description": "Open Source bot to check Bin Valid or Invalid",
   "keywords": [
     "Bin-Checker-Bot",
     "Telegram",
     "Bins"
   ],
-  "repository": "https://github.com/ImDenuwan/Bin-Checker-Bot",
+  "repository": "https://github.com/Devilking12/Bin-Checker-Bot",
   "logo": "https://telegra.ph/file/f1ba292bceb09c52a5a85.jpg",
   
   "env": {
